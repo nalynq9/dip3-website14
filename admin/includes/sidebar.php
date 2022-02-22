@@ -2,7 +2,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
@@ -43,6 +43,7 @@
                 </div>
             </li>
 
+
             <!-- Divider -->
             <hr class="sidebar-divider">
 
@@ -60,14 +61,14 @@
                 </a>
                 <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <h6 class="collapse-header">Login Screens:</h6>
+                        <h6 class="collapse-header">ข่าวประชาสัมพันธ์:</h6>
                         <a class="collapse-item" href="news1.php">ข่าวประชาสัมพันธ์ 1</a>
-                        <a class="collapse-item" href="news2.php">ข่าวประชาสัมพันธ์ 2</a>
-                        <a class="collapse-item" href="news3.php">ข่าวประชาสัมพันธ์ 3</a>
+                        <a class="collapse-item" href="news2.php">สไลด์ข่าว</a>
+                        <a class="collapse-item" href="news2.php">ภาพกิจกรรม</a>
                         <div class="collapse-divider"></div>
                         <h6 class="collapse-header">Other Pages:</h6>
-                        <a class="collapse-item" href="kij1.php">ภาพกิจกรรท 1</a>
-                        <a class="collapse-item" href="kij1.php">ภาพกิจกรรท 1</a>
+                        <a class="collapse-item" href="kij1.php">ภาพกิจกรรม1</a>
+                        <a class="collapse-item" href="kij2.php">ภาพกิจกรรม1</a>
                     </div>
                 </div>
             </li>
@@ -97,7 +98,8 @@
             <!-- Sidebar Message -->
             <div class="sidebar-card d-none d-lg-flex">
                 <img class="sidebar-card-illustration mb-2" src="img/undraw_rocket.svg" alt="...">
-                <p class="text-center mb-2"><strong>SB Admin Pro</strong> วท.ตราด</p>
+                <p class="text-center mb-2"><strong>ผู้ดูแลระบบ </strong>วท.ตราด</p>
+
             </div>
 
         </ul>
@@ -107,3 +109,5 @@
 
 <!-- Main Content -->
 <div id="content">
+
+

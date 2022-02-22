@@ -1,1 +1,1 @@
-<h1>Databases Connection Failed</h1>
+้้<h1>Databases Connection fail</h1>
